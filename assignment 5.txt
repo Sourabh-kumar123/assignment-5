@@ -1,0 +1,28 @@
+ANSWEER 1:-
+it is null and blank.
+a={}
+
+ANSWER 2:-
+a={"foo":42}
+
+ANSWER 3:-
+both are mutubale but dicitonary work on key value pair but list doesn't .
+list denoted by round bracket where as dictionary decoted by {}.
+they have their own different method and function except len pop...
+
+ANSWER 4:-
+it will show error
+
+ANSWER 5:-
+"cat" in spam telling that there is name of cat that exist in spam dictionary or not .
+"cat" in spam.keys()telling that is there name of cat in keys section of  dictionary.
+
+ANSWER 6:-
+cat" in spam telling that there is name of cat that exist in spam dictionary or not .
+"cat" in spam.values() telling that is there name of cat in values section of  dictionary or not.
+
+ANSWER 7:-
+spam.udpate({'colour':'BLACK'})
+
+ANSWER 8:-
+The module used is the pprint module within which we have the pprint function of the same name.
